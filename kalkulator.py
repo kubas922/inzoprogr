@@ -8,6 +8,6 @@ fibonacci = []
 ilosc = int(input())
 
 for i in range(ilosc):
-    fibonacci.append(ciag_fibonacciego(i))
+    fibonacci.append(ciag_fibonacciego(i*2))
 
 print (fibonacci)
