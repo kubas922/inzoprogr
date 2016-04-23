@@ -8,7 +8,7 @@ fibonacci = []
 ilosc = int(input())
 
 def new_function:
-	print("rotfl")
+	print("to jest nowa funkcja")
 	
 for i in range(ilosc):
     fibonacci.append(ciag_fibonacciego(i*2))
