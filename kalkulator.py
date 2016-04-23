@@ -7,6 +7,9 @@ def ciag_fibonacciego(n):
 fibonacci = []
 ilosc = int(input())
 
+def new_function:
+	print("rotfl")
+	
 for i in range(ilosc):
     fibonacci.append(ciag_fibonacciego(i*2))
 
