@@ -8,6 +8,7 @@ fibonacci = []
 ilosc = int(input())
 
 def new_function:
+<<<<<<< HEAD
 	print("rotfl")
 
 def nowa_dzialajaca_funkcja(n):
@@ -15,6 +16,9 @@ def nowa_dzialajaca_funkcja(n):
 		print("dodatnia")
 	else:
 		print("niedodatnia")
+=======
+	print("to jest nowa funkcja")
+>>>>>>> NewOne
 	
 for i in range(ilosc):
     fibonacci.append(ciag_fibonacciego(i*2))
